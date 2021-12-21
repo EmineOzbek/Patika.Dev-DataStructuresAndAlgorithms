@@ -1,5 +1,6 @@
 # Patika.Dev-DataStructuresAndAlgorithms
 [PROJE 1](https://github.com/EmineOzbek/Patika.Dev-DataStructuresAndAlgorithms/blob/main/README.md)<br/>
+[PROJE 2](https://github.com/EmineOzbek/Patika.Dev-DataStructuresAndAlgorithms/blob/main/README.md#proje-2)
 ## PROJE 1
 ### **[22, 27, 16, 2, 18, 6] -> Insertion Sort**
 
