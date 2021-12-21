@@ -1,4 +1,5 @@
 # Patika.Dev-DataStructuresAndAlgorithms
+[PROJE 1](https://github.com/EmineOzbek/Patika.Dev-DataStructuresAndAlgorithms/blob/main/README.md)<br/>
 ## PROJE 1
 ### **[22, 27, 16, 2, 18, 6] -> Insertion Sort**
 #### 1 - Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
